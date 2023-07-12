@@ -1,0 +1,128 @@
+#container{position:absolute; width:100%; height:1100px; top:0; left:0;  }
+#menutop{position:absolute; width:100%; height:7%; top:0; left:0;  background-color:#ec3843; overflow:hidden;}
+#menutop ul{ width:60%; position:absolute; left: 20%; height:100%; top:-5%;}
+#menutop ul li{display:inline; color:rgba(243,243,243,1.00); margin-left:1%; text-align:center; font-size:25px; padding-top:12px;padding-bottom:28px; padding-left:3%; padding-right:3%;}
+#menutop ul li:hover{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+36,ffffff+100,ffffff+100&1+0,0+100 */
+background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(255,255,255,0.64) 36%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.64) 36%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.64) 36%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 ); /* IE6-9 */
+color:rgba(0,0,0,1.00);
+}
+a{text-decoration:none;}
+footer{position:absolute; width:100%; height:7%; top:95%; left:0;  background-color:rgba(0,0,0,1.00); color:#FFF;}
+footer h5{margin-top:4%; margin-bottom:-5%; margin-left:42.8%; height:20%; width:20%;}
+#menubuttom{position:absolute; width:60%; height:50%; top:5%; left:20%;  overflow:hidden;}
+#menubuttom ul{ width:60%; position:absolute; left: 20%; height:100%; top:-5%;}
+#menubuttom ul li{display:inline; color:rgba(243,243,243,1.00); margin-left:1%; text-align:center; font-size:15px; padding-top:3%; padding-bottom:2%;  padding-left:3%; padding-right:3%;}
+#menubuttom ul li:hover{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+36,ffffff+100,ffffff+100&1+0,0+100 */
+background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(255,255,255,0.64) 36%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.64) 36%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.64) 36%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 ); /* IE6-9 */
+color:rgba(0,0,0,1.00);
+}
+/***********-----------Accueil---------------------------******************************/
+#slider{position:absolute; width:100%; height:40%; top:7%; left:0; }
+section{position:absolute; width:100%; height:50%; top:47%; left:0;  background-color:rgba(223,223,223,1.00);}
+/******/
+#sld{position:absolute; width:100%; height:100%; top:0%; left:0; }
+#sld img{width:100%; height:100%;}
+#Prixform{position:absolute; width:40%; height:90%; color:#FFFFFF; top:5%; left:55%; }
+/********/
+#divart{position:absolute; width:90%; height:90%; top:0%; left:5%; border-radius:5px;  background-color:#fff; box-shadow:2px 2px 2px rgba(128,128,128,1.00);}
+#divart h2{position:absolute;  top:0%; left:35%; color:#454140; font-size:36px;}
+#divart article{width:23%; height:70%; margin-left:1%; margin-right:1%;  float:left; margin-top:8%;}
+#divart article img{ width:90% ; height:40%; margin-left:5%; }
+#divart article h4{margin-top:15%;}
+#divart article p{ width:100% ; height:8%; margin-top:2%; font-size:18px; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif; font-weight:bold;  background-color:#ec3843; box-shadow:3px 5px 4px rgba(51,51,51,1.00); }
+#divart article span{ width:24% ; height:11%; margin-top:2%; border:0.4px solid rgba(200,200,200,1.00); color:rgba(138,138,138,1.00);  float:left; background-color:#f8f7fc; }
+#divart article span img { width:40% ; height:70%; margin-top:8%; margin-right:5%; }
+/********/
+#Prixform h3{ color:#FFFFFF; font-size:36px; margin-left:10%; width:100%; }
+#table1{ height:70%;}
+#table1 td{ height:30%;}
+#Prixform input{ width:100%; height:60%; border-radius:10px;}
+.widthtd{  width:35%;}
+.widthinput{  padding-left:2%; padding-right:2%;}
+#btnsubmit1{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffd65e+9,ffd65e+23,febf04+63 */
+background: rgb(255,214,94); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(255,214,94,1) 9%, rgba(255,214,94,1) 23%, rgba(254,191,4,1) 63%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,214,94,1) 9%,rgba(255,214,94,1) 23%,rgba(254,191,4,1) 63%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,214,94,1) 9%,rgba(255,214,94,1) 23%,rgba(254,191,4,1) 63%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd65e', endColorstr='#febf04',GradientType=0 ); /* IE6-9 */
+ border:none;}
+/*******/
+#ligne1{position:absolute; width:60%; height:1%; top:94%; left:20%; -webkit-transform: skew(20deg);-moz-transform: skew(20deg); -o-transform: skew(20deg);  background-color:rgba(224,34,37,1.00); border:4px solid #fff; border-radius:5px;}
+
+
+/*************************************************************************************/
+/*******************-----------------Presentation-----------------------*************/
+#section-Presentation{position:absolute; width:100%; height:90%; top:7%; left:0;  background-color:rgba(223,223,223,1.00);}
+#section-Presentation h2{position:absolute;  top:2%; left:10%;}
+#section-Presentation #divartPre{position:absolute; width:80%; height:85%; top:10%; left:10%; border-radius:5px;  background-color:#FFFFFF; box-shadow:2px 2px 2px rgba(128,128,128,1.00);}
+#section-Presentation #divartPre img{position:absolute; width:60%; height:40%; top:5%; left:5%; border-radius:5px; border:2px solid rgba(0,0,0,1.00); }
+#section-Presentation #divartPre article{ width:30%; margin-left:68%; margin-top:5%; border-radius:5px; background-color:rgba(227,227,227,1.00); border:1px solid rgba(171,171,171,1.00);}
+#section-Presentation #divartPre article h3{ width:98%; margin-left:-0.2%; padding-left:2%;  margin-top:-0.5%;  padding-top:2%; padding-bottom:2%; background-color:#FFFFFF; border-top-right-radius:5px;border-top-left-radius:5px;  border:1px solid rgba(171,171,171,1.00);}
+#section-Presentation #divartPre #main_presentation{position:absolute; width:65%; height:40%; top:50%; left:2%; border-radius:5px; }
+/***********************************************************************************/
+/**************------------------vehicules--------------------------------------************/
+#section-vehicule{position:absolute; width:100%; height:90%; top:7%; left:0;  background-color:rgba(223,223,223,1.00);}
+#section-vehicule #divartvehicule{position:absolute; width:80%; height:90%; top:5%; left:10%; border-radius:5px;  background-color:#FFFFFF; box-shadow:2px 2px 2px rgba(128,128,128,1.00);}
+
+#divartvehicule .art1{width:70%; height:20%; margin-left:2%; margin-right:1%;margin-top:3%;  }
+#divartvehicule .art1 img{ width:40% ; height:100%; margin-left:1%; float:left; }
+#divartvehicule .art1 h4{margin-top:2%;}
+#divartvehicule .art1 h5{ margin-left:90%; margin-top:-5%; color:rgba(158,158,158,1.00); }
+#divartvehicule .art1 h5 b{color:rgba(22,22,22,1.00); }
+#divartvehicule .art1 p{ width:60% ; height:15%; font-size:18px; font-weight:bold;  margin-top:1%; margin-left:41%;  background-color:#ec3843; box-shadow:3px 5px 4px rgba(51,51,51,1.00); }
+#divartvehicule .art1 p b{    margin-left:60%;color:#FFFFFF; font-size:16px; }
+#span1cont{ width:35%; height:25%; margin-left:41%; margin-top:-12%; float:left;}
+
+#divartvehicule .art1 span{ width:22% ; height:100%;border:0.7px solid rgba(211,211,211,1.00); color:rgba(138,138,138,1.00);  float:left; background-color:#f8f7fc; }
+#divartvehicule .art1 span img { width:40% ; height:70%; margin-top:8%; margin-right:5%; }
+#divartvehicule .art1 span i{margin-left:15%; }
+#divartvehicule .art1 button{ width:26% ; height:25%; margin-left:33%;background-color:rgba(49,49,49,1.00); border:none; border-radius:5px; color:#FFFFFF;  }
+/********/
+#divartvehicule .art2{width:70%; height:20%; margin-left:30%; margin-right:1%;margin-top:3%;  }
+#divartvehicule .art2 img{ width:40% ; height:100%; margin-left:60%; margin-top:-25%;  }
+#divartvehicule .art2 h4{margin-top:2%; margin-left:40%;}
+#divartvehicule .art2 h5{margin-left:1%; margin-top:-5%; color:rgba(158,158,158,1.00); }
+#divartvehicule .art2 h5 b{color:rgba(22,22,22,1.00); }
+#divartvehicule .art2 p{ width:60% ; height:15%; font-size:18px; font-weight:bold;  margin-top:1%; margin-left:1%;  background-color:#ec3843; box-shadow:3px 5px 4px rgba(51,51,51,1.00); }
+#divartvehicule .art2 p b{margin-left:1%;color:#FFFFFF; font-size:16px; margin-right:60%; }
+#span2cont{width:40%; height:25%; margin-left:29%; margin-top:-6%;}
+#divartvehicule .art2 span{ width:20% ; height:100%; float:left;border:0.7px solid rgba(211,211,211,1.00);color:rgba(138,138,138,1.00);  background-color:#f8f7fc; }
+#divartvehicule .art2 span img { width:40% ; height:70%; margin-top:7%;  margin-left:25%;}
+#divartvehicule .art2 span i { margin-left:2%;}
+#divartvehicule .art2 button{ width:27% ; height:25%; margin-left:1%; margin-top:1%; background-color:rgba(49,49,49,1.00); border:none; border-radius:5px; color:#FFFFFF;  }
+/****************************************************************************/
+/*******************----------------Contact---------------------------***************/
+#section-contact{position:absolute; width:100%; height:90%; top:7%; left:0;  background-color:rgba(223,223,223,1.00);}
+#section-contact #divartContact{position:absolute; width:80%; height:90%; top:5%; left:10%; border-radius:5px;  background-color:#FFFFFF; box-shadow:2px 2px 2px rgba(128,128,128,1.00);}
+.widthlab{width:20%;}
+#contactform{width:45%; height:60%; position:absolute; left:5%; top:5%; color:rgba(134,134,134,1.00);}
+#contactform table{ height:100%;}
+#contactform table td{ height:10%;}
+#contactform table input{width:100%; height:50%; border-radius:5px; background-color:rgba(217,217,217,1.00);}
+#contactform table #textarea1{width:100%; height:100%; border-radius:5px; background-color:rgba(217,217,217,1.00);}
+#contactform table #btnsubmit2{width:40%; height:50%;/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffd65e+9,ffd65e+23,febf04+63 */
+background: rgb(255,214,94); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(255,214,94,1) 9%, rgba(255,214,94,1) 23%, rgba(254,191,4,1) 63%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,214,94,1) 9%,rgba(255,214,94,1) 23%,rgba(254,191,4,1) 63%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,214,94,1) 9%,rgba(255,214,94,1) 23%,rgba(254,191,4,1) 63%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd65e', endColorstr='#febf04',GradientType=0 ); /* IE6-9 */
+ border:none; }
+ /***********/
+#contactinfo{width:40%; height:40%;  position:absolute; left:55%; top:7%; color:rgba(134,134,134,1.00) ;}
+#contactinfo div{ width:100%; height:30%; background-color:rgba(223,223,223,1.00); border-radius:5px; margin-top:1.5%;}
+#contactinfo div img { width:15%; height:50%; margin-top:5%; margin-left:1%; float:left; margin-right:8%;}
+#contactinfo div span {  margin-top:15%; margin-left:5%; }
+ /***/
+ #map{width:90%; height:30%; background-color:rgba(223,223,223,1.00); position:absolute; left:5%; top:68%; color:rgba(134,134,134,1.00);}
+/**************************************************************************************/
+
+
+/***************************************------------REsponsive-----------------------------********/
+
+
